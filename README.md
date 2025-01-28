@@ -3,7 +3,7 @@
 2) npm install
 3) npm run dev
 
-В проекте используется:
+Используемые технологии:
 1. JS
 2. React
 3. Redux Toolkit + query
